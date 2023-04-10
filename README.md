@@ -88,3 +88,8 @@ procedure dequeue
 
 end procedure
 ```
+Output-
+
+![Screenshot 2023-04-10 at 7 02 51 PM](https://user-images.githubusercontent.com/91966167/230911347-36f1138d-b32b-4a1e-96e1-11180fa29992.png)
+
+
